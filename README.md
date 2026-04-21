@@ -1,3 +1,4 @@
+# ASSIGNMENT 2 OOP THEORY
 Objective
 Extend your Assignment #1 by applying advanced Object-Oriented Programming concepts in Java
 to design a scalable and reusable system.
@@ -30,7 +31,6 @@ Requirements
  Perform operations like:
  Searching
  Sorting
-
  Swapping
 6. Inner Classes (5 Marks)
 Implement at least 3 types of inner classes:
